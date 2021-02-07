@@ -35,6 +35,8 @@ Some operations were performed to refine our charts in the presentation:
 - The use of data sampling to polish our presentation by keeping only 10% or little more of the data. This allowed us to better highlight the points that we put forward in our analysis, especially in the scatterplot.
 - The use of an almost unique color palette with some color additions on some graphs. This made it possible to make more coherent and more pleasant our presentation as a whole.
 
+## Link to the blog post
+[Blog post](https://ygrecson.medium.com/fifa-21-dataset-analysis-442f9cb3abc0)
 
 ## List of resources
 
